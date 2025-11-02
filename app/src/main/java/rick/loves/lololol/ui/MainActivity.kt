@@ -1,4 +1,5 @@
 // Asked gemini to comment all the important modules for future debugging
+
 package rick.loves.lololol.ui
 
 import android.os.Bundle
